@@ -1,0 +1,51 @@
+.khung1{
+	width: 800px;
+}
+
+article{
+
+	width: 300px;
+	height: 500px;
+	margin-right: 20px;
+	float: left;
+	
+	
+
+
+
+
+    
+   
+	
+
+
+}
+img{
+	width: 250px;
+	box-shadow: 5px 5px ;
+  -moz-box-shadow: 5px 5px 3px;
+    -webkit-box-shadow: 5px 5px 3px;
+    -o-box-shadow: 5px 5px 3px;
+
+		border: 1px solid red;
+
+
+}
+a{
+	color: blue;
+	text-decoration: none;
+	font-size: 15	px;
+	text-align: justify;
+	float: right;
+	}
+	a:hover{
+		color: red;
+
+		}
+		.hinh1{
+			float: right;
+			width: 250px;
+		}
+
+
+
